@@ -1,6 +1,7 @@
 import React from 'react';
 import { mount } from 'enzyme';
 import CommentBox from '../CommentBox';
+import Root from '../../Root';
 
 // shallow render 
 // (render *just* the given component and none of its children)
@@ -10,7 +11,11 @@ import CommentBox from '../CommentBox';
 let wrapped;
 
 beforeEach(() => {
-    wrapped = mount(<CommentBox/>);
+    wrapped = mount(
+        <Root>
+            <CommentBox/>
+        </Root>
+    );
 });
 
 afterEach(()=>{
