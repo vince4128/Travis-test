@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/travis-test/static/js/main.3c9859f2.chunk.js",
+    "main.js.map": "/travis-test/static/js/main.3c9859f2.chunk.js.map",
+    "runtime~main.js": "/travis-test/static/js/runtime~main.2689178f.js",
+    "runtime~main.js.map": "/travis-test/static/js/runtime~main.2689178f.js.map",
+    "static/js/2.996f4e1c.chunk.js": "/travis-test/static/js/2.996f4e1c.chunk.js",
+    "static/js/2.996f4e1c.chunk.js.map": "/travis-test/static/js/2.996f4e1c.chunk.js.map",
+    "index.html": "/travis-test/index.html",
+    "precache-manifest.feb6ab196b828ada740d0267c30b9730.js": "/travis-test/precache-manifest.feb6ab196b828ada740d0267c30b9730.js",
+    "service-worker.js": "/travis-test/service-worker.js"
+  }
+}
